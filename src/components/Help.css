@@ -1,0 +1,40 @@
+
+.t-h{ 
+    padding-left: 4em;
+    width: 90%;
+    padding-bottom: 1em;
+    margin: 0 auto;
+
+}
+.Help-h{
+    font-family: 'Nunito';
+}
+.ul-h {
+    list-style-type: decimal;
+    margin-top: -10px;
+}
+.li-h { 
+    padding-top: 20px;
+    font-weight: bold;
+}
+.a-h {
+    font-weight: normal;
+}
+.title-h {
+    padding-top: 1.539vh;
+        font-size: 1.6em;
+        color: #B336FF;
+        font-family: 'Nunito';
+        font-weight: bold;
+        text-align: center;
+}
+.photo{
+    width: 40%;
+    display: flex;
+    margin: 10px auto;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: -250px;
+    }
+    .main{
+        padding: 20px;}

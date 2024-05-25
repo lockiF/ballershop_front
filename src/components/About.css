@@ -1,0 +1,139 @@
+@media only screen and (min-width: 1024px) {
+    .t-a{ 
+        padding-left: 4em;
+        width: 90%;
+        padding-bottom: 1em;
+        margin: 0 auto;
+
+    }
+    .Help{
+        font-family: 'Nunito';
+        margin-right: 5%;
+        text-align: center; 
+    }
+    ul {
+        list-style-type: decimal;
+        margin-top: -10px;
+    }
+    p { 
+        padding-top: 20px;
+        font-weight: bold;
+    }
+    a {
+        font-weight: normal;
+    }
+    .title-a {
+        padding-top: 1.539vh;
+            font-size: 1.6em;
+            color: #B336FF;
+            font-family: 'Nunito';
+            font-weight: bold;
+            text-align: center;
+    }
+
+    .aboutIMAGE-a {
+        width: 80%;
+        display:block;
+        margin-left: 12%;
+
+    }
+
+    .container-a {
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px)  {
+    .t-a{ 
+        padding-left: 4em;
+        width: 90%;
+        padding-bottom: 1em;
+        margin: 0 auto;
+
+    }
+    .help-a{
+        font-family: 'Nunito';
+    }
+    ul {
+        list-style-type: decimal;
+        margin-top: -10px;
+    }
+    p { 
+        padding-top: 20px;
+        font-weight: bold;
+    }
+    a {
+        font-weight: normal;
+    }
+    .title-a {
+        padding-top: 1.539vh;
+            font-size: 1.6em;
+            color: #B336FF;
+            font-family: 'Nunito';
+            font-weight: bold;
+            text-align: center;
+    }
+
+    .aboutIMAGE-a {
+        width: 80%;
+        display:block;
+        margin-left: 14%;
+    }
+
+    .container-a {
+        text-align: center;
+    }
+}
+
+@media (max-width: 767px) {
+    .t-a{ 
+        padding-left: 4em;
+        width: 90%;
+        padding-bottom: 1em;
+        margin: 0 auto;
+        text-align: center; 
+    }
+
+    .Help{
+        font-family: 'Nunito';
+        margin-right: 25%;
+        text-align: center; 
+    }
+
+    ul {
+        list-style-type: decimal;
+        margin-top: -10px;
+        padding: 0; 
+        text-align: center; 
+    }
+
+    p { 
+        padding-top: 20px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    a {
+        font-weight: normal;
+        text-align: center; 
+    }
+
+    .title-a {
+        padding-top: 1.539vh;
+        font-size: 1.6em;
+        color: #B336FF;
+        font-family: 'Nunito';
+        font-weight: bold;
+        text-align: center; 
+    }
+
+    .aboutIMAGE-a {
+        width: 80%;
+        display:block;
+        margin-left: 25%;
+    }
+
+    .container-a {
+        text-align: center;
+    }
+}

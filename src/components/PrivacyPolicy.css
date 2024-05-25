@@ -1,0 +1,28 @@
+.s{ 
+    margin: 0 auto;
+    width: 80%;
+    padding-bottom: 1em;
+
+}
+.PrivacyPolicy{
+    font-family: 'Nunito';
+}
+q {
+    list-style-type: decimal;
+    margin-top: -10px;
+}
+s {
+    padding-top: 20px;
+    font-weight: bold;
+}
+a {
+    font-weight: normal;
+}
+.t {
+    padding-top: 1.539vh;
+        font-size: 1.6em;
+        color: #B336FF;
+        font-family: 'Nunito';
+        font-weight: bold;
+        text-align: center;
+}
